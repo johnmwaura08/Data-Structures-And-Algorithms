@@ -34,5 +34,5 @@ function multiplyAll(arr) {
     return product;
   }
   
-  consoleconsole.log(multiplyAll([[1,2],[5,6]])) // returns 60
+    console.log(multiplyAll([[1,2],[5,6]])) // returns 60
   console.log(multiplyAll([[2,5],[4,7,2]])) // returns 560
