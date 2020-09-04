@@ -4,3 +4,5 @@
 
 ## This is where Big-O comes in.  Its a  way of analysing code, talking about it and comparing it's performance to other pieces of code .
 
+## We can assign labels to our different implementations, instead of saying "Excellent", "Average" ,"i guess",  "Appalling" 
+
