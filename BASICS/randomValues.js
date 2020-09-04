@@ -21,3 +21,21 @@ function randomFraction() {
 
   console.log(randomFraction())
   
+
+//   Instead of generating a random whole number between zero and a given number like we did before,
+//    we can generate a random whole number that falls within a range of two specific numbers.
+// To do this, we'll define a minimum number min and a maximum number max.
+
+// this is the formula =======> 
+// Math.floor(Math.random() * (max - min + 1)) + min
+
+function randomRange(myMin, myMax) {
+
+     return  Math.floor(Math.random() * (myMax - myMin + 1)) + myMin
+    ;
+    
+  }
+
+  console.log(randomRange(2, 5)) //returns an eexample 3 
+  console.log(randomRange(1, 45)) //returns an example 16
+  console.log(randomRange(2, 99)) //returna an example 77
