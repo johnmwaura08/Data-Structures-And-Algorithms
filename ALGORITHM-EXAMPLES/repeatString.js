@@ -11,7 +11,10 @@ function repeatStringNumTimes(str, num) {
 
     if(num< 0) return "";
 
-    return new Array(num).fill(str).join('')
+ 
+
+     return new Array(num).fill(str).join('')
+   
 }
 
 
