@@ -25,7 +25,8 @@ function factorialize(num) {
 console.log(factorialize(4)) //returns 24
 console.log(factorialize(5)) //returns 120
 console.log(factorialize(6)) //returns 720 
-
+console.log(factorialize(0));
+console.log(factorialize(0));
 //soo, lets take for example 4, the function  goes in, checks the base case, is 4 equal to 1, is 4 equal to 0, 
 //which its not, so it skips the base case and goes to the else statement
 //which is 4 * factorialize(3)
