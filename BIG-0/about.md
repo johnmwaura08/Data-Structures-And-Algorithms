@@ -6,3 +6,8 @@
 
 ## We can assign labels to our different implementations, instead of saying "Excellent", "Average" ,"i guess",  "Appalling" 
 
+## its important to discuss how our code performs and also see the trade-offs between using different approaches
+
+## Furthermore if you're trying to debug its helpful to understand the parts of your code that are slowing it down
+
+
