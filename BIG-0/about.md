@@ -10,4 +10,6 @@
 
 ## Furthermore if you're trying to debug its helpful to understand the parts of your code that are slowing it down
 
+### keyword time complexity
+
 
